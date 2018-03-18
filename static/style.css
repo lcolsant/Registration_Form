@@ -1,0 +1,51 @@
+
+h1{
+    color: darkblue;
+    margin-left: 20px;
+}
+
+input {
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    width: 200px;
+}
+
+label {
+    margin-left: 20px;
+}
+
+#container {
+    border: 1px solid darkblue;
+    /* height: 400px; */
+    width: 390px;
+    margin: 20px auto;
+    /* text-align: center; */
+}
+
+#submit {
+    width: 100px;
+    color: white;
+    background-color: darkblue;
+    
+}
+
+#mytext {
+    display: block;
+    margin-left: 20px;
+    margin-top: 5px;
+    width: 295px;
+    height: 125px;
+
+}
+
+.flashes{
+    color:red;
+    /* background-color: yellow; */
+    font-weight: bold;
+    /* margin-left: 10px; */
+}
+
+li.error {
+    background-color: yellow;
+}
